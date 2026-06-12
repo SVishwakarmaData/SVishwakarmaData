@@ -53,6 +53,6 @@ Currently focused on:
 
 ## 📫 Connect
 
-- 💼 [LinkedIn](linkedin.com/in/suraj-vishwakarma-8761b3354)
+- 💼 [LinkedIn](https://www.linkedin.com/in/suraj-vishwakarma-8761b3354/)
 - 📧 sv4235404@gmail.com
 
