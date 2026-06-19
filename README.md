@@ -38,10 +38,9 @@ Currently focused on:
 
 | Project | Tools | Description |
 |---------|-------|-------------|
-| [Global Layoffs Dashboard](link) | Power BI, MySQL | Interactive dashboard analyzing 383K+ tech layoffs (2020–2023) |
-| [SQL Data Cleaning](link) | MySQL | End-to-end data cleaning of layoffs dataset — duplicates, nulls, standardization |
-| [SQL EDA — Layoffs](link) | MySQL | Exploratory analysis with CTEs, window functions, rolling totals |
-| [Stock Analysis Tool](link) | Python, Streamlit | Live stock data app using yfinance, pandas, matplotlib |
+| [Global Layoffs Dashboard](https://github.com/SVishwakarmaData/power-bi-layoffs-dashboard) | Power BI, MySQL | Interactive dashboard analyzing 383K+ tech layoffs (2020–2023) |
+| [SQL Data Cleaning](https://github.com/SVishwakarmaData/sql-data-cleaning-layoffs) | MySQL | End-to-end data cleaning of layoffs dataset — duplicates, nulls, standardization |
+| [SQL EDA — Layoffs](https://github.com/SVishwakarmaData/sql-eda-layoffs) | MySQL | Exploratory analysis with CTEs, window functions, rolling totals |
 
 ---
 
