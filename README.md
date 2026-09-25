@@ -21,4 +21,4 @@ through real analytics projects — cleaning, dashboards, and forecasting.
 - **[stock-analysis-tool](https://github.com/SVishwakarmaData/stock-analysis-tool)** — Python/Streamlit stock analysis app (pandas, yfinance)
 
 ### 📫 Reach me
-LinkedIn: [https://www.linkedin.com/in/suraj-vishwakarma-8761b3354/]
+[LinkedIn](https://www.linkedin.com/in/suraj-vishwakarma-8761b3354/)
