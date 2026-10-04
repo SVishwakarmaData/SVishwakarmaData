@@ -6,7 +6,7 @@ I combine a finance background with SQL, Power BI, and Python to
 turn raw business/financial data into decisions. Currently working
 through real analytics projects — cleaning, dashboards, and forecasting.
 
-**Currently:** Data Analytics Intern at InAmigos Foundation
+**Done:** Data Analytics Intern at InAmigos Foundation
 
 ---
 
